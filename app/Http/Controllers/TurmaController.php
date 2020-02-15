@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Aluno;
+use App\Http\Requests\TurmaRequest;
 use Illuminate\Http\Request;
 use App\Turma;
 use Illuminate\Support\Facades\Auth;
